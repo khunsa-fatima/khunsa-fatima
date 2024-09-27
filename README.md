@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khunsa-fatima
-- 👀 I’m interested in machine learning/deep learning using Python
-- 🌱 I’m currently learning to create/use/train DL model for instance segmentation
+- 👀 My interest is using machine learning/deep learning for Environmental Monitoroing 
+- 🌱 I’m currently working to train a DL model for wetlands segmentation
 
 <!---
 khunsa-fatima/khunsa-fatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
