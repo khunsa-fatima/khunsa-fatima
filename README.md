@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khunsa-fatima
-- 👀 My interest is using machine learning/deep learning for Environmental Monitoroing 
+- 👀 My interest is in use of machine learning/deep learning for Environmental Monitoroing 
 - 🌱 I’m currently working to train a DL model for wetlands segmentation
 
 <!---
